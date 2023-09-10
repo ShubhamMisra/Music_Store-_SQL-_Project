@@ -1,4 +1,4 @@
-# Sql
+# SQL
 Analysis Of Music Store Data
 /*	Question Set 1 - Easy */
 
