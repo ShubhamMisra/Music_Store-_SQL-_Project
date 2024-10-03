@@ -1,19 +1,26 @@
-SQL_Music_Data_Analysis
+**SQL Music Data Analysis** project description:
 
-1.	Project Overview
-•	Detailed Analysis of Music Store through SQL
-      
-2.	Data Source
-•	Music Database is used as data source
+---
 
-3.	Tool &Technologies Used
-•	Postregesql
+### **SQL Music Data Analysis**
 
-4.	Data Cleaning/Preparation
-                   In the initial stage of Data preparation Phase, we performed the tasks
-•	Data loading and Inspection
-       
-5.	Result/Findings
-         
-•	Madhav has spent the most to became best customer
-•	The Highest Selling Artist is Queen
+#### 1. **Project Overview**
+   - Detailed analysis of a music store using SQL.
+
+#### 2. **Data Source**
+   - Music database used as the data source.
+
+#### 3. **Tools & Technologies Used**
+   - PostgreSQL.
+
+#### 4. **Data Cleaning/Preparation**
+   - In the initial stage of the Data Preparation phase, the following tasks were performed:
+     - Data loading and inspection.
+
+#### 5. **Results/Findings**
+   - Madhav has spent the most, making him the best customer.
+   - The highest-selling artist is Queen.
+
+---
+
+
