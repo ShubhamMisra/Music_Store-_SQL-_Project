@@ -1,4 +1,4 @@
-**SQL Music Data Analysis** project description:
+**SQL_Music_Data_Analysis** project description:
 
 ---
 
